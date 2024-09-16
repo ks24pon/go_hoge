@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main3() {
 	m := map[string]int{"x": 10, "y": 20}
 
 	// キーを指定アクセス

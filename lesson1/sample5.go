@@ -5,7 +5,7 @@ func swap(x, y int) (x2, y2 int) {
 	return
 }
 
-func main() {
+func main5() {
 	x, y := swap(10, 20)
 	println(x, y)
 }

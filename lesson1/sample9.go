@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main9() {
 	p := struct {
 		age  int
 		name string

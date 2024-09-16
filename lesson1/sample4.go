@@ -8,6 +8,6 @@ func add(x, y int) int {
 	return x + y
 }
 
-func main() {
+func main4() {
 	fmt.Println(add(10, 20))
 }

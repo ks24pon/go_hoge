@@ -1,6 +1,6 @@
 package main
 
-func main() {
+func main10() {
 	ns := []int{10, 20, 30}
 	ns2 := ns
 	ns[1] = 200

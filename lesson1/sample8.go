@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main8() {
 	// fs変数のスライス作成、スライスの長さは3で中身はまだ空
 	fs := make([]func(), 3)
 	// fsスライスに対してforループ、iはスライスのインデックス
